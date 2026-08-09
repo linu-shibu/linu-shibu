@@ -1,40 +1,93 @@
 # 👋 Hi, I'm Linu Shibu!
 
-💻 **Software Developer | Distributed Systems Enthusiast | Kafka Platform Engineer**
+💻 **Full-Stack & Platform Engineer | Distributed Systems | AI/ML**
 
-I'm a software developer passionate about building scalable, event-driven systems and high-performance platform services, especially in the fintech space. Currently part of the **Kafka Platform Team at PayPal**, where I work on designing, maintaining, and improving real-time messaging infrastructure for mission-critical applications.
+I'm a software engineer with 3+ years of experience building scalable distributed systems, backend services, internal platforms, and full-stack applications. My professional experience includes working on Kafka infrastructure and platform engineering at PayPal, with a focus on automation, reliability, cloud migration, and developer-facing tools.
 
----
-
-## 🚀 What I'm working on:
-- 📊 Developing internal tooling for Kafka topic management, consumer lag monitoring, and operational insights.
-- 🛠️ Migrating critical onboarding flows from legacy systems to modern, efficient internal tools platforms.
-- ⚡ Building milli-second efficient, highly available, fault-tolerant systems.
+I'm currently pursuing a **Master of Computing in Artificial Intelligence at the National University of Singapore (NUS)**, building on my background in software engineering and AI/ML. I'm particularly interested in **AI/ML engineering, distributed systems, platform engineering, and building practical AI-powered systems**.
 
 ---
 
-## 📂 Open Source Contributions:
-Actively contributing to [Apache Kafka](https://github.com/apache/kafka/pulls?q=is%3Apr+author%3Alinu-shibu) — with bug fixes, documentation improvements, and operational tooling updates.
+## 🚀 What I'm interested in
+
+* 🤖 **AI/ML:** Machine learning, computer vision, deep learning, and applied AI
+* ⚡ **Distributed Systems:** Event-driven architectures, Kafka, scalable backend systems, and high-availability services
+* 🛠️ **Platform Engineering:** Developer platforms, automation, cloud migration, and operational tooling
+* 🌐 **Full-Stack Engineering:** React, React Native, TypeScript, Java, and Spring Boot
 
 ---
 
-## 🛠️ Tech Stack:
-**Languages:** `C++` `Python` `JavaScript` `TypeScript` `Java`  
-**Frameworks/Tools:** `React` `React Native` `Kafka` `Streamlit` `ExpressJS`  
-**Concepts:** Distributed Systems, Event-driven Architecture, System Design, Microservices
+## 📚 Research & Open Source
+
+### 🔬 IEEE Publication
+
+**[A Real-Time Vehicle Detection and Speed Estimation Using YOLOv8](https://ieeexplore.ieee.org/document/10533551)**
+
+Published at the **2024 International Conference on Advances in Data Engineering and Intelligent Computing Systems (ADICS)**.
+
+The work explores real-time vehicle detection, tracking, counting, and speed estimation using YOLOv8 and computer vision techniques.
+
+### 🔧 Apache Kafka
+
+I have contributed to **Apache Kafka** through bug fixes, improvements, and operational tooling.
+
+[View my Kafka contributions →](https://github.com/apache/kafka/pulls?q=is%3Apr+author%3Alinu-shibu)
 
 ---
 
-## 📌 Featured Projects:
-- 🛍️ [E-Commerce Website (ReactJS + Firebase)](https://github.com/linu-shibu/e-commerce-website-react-js)
-- 🦠 [Covid Data Analysis & Diagnosis (Python + Streamlit)](https://github.com/linu-shibu/Team_4max)
+## 🛠️ Tech Stack
+
+**Languages:**
+`Java` `Python` `C++` `JavaScript` `TypeScript`
+
+**Backend & Distributed Systems:**
+`Spring Boot` `Kafka` `REST APIs` `Node.js`
+
+**Frontend:**
+`React` `React Native` `TypeScript`
+
+**Databases:**
+`MySQL` `PostgreSQL`
+
+**Infrastructure & Tools:**
+`Ansible` `Linux` `Git`
+
+**AI/ML:**
+`Computer Vision` `YOLOv8` `Deep Learning` `Machine Learning`
 
 ---
 
-## 📬 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/-Linu%20Shibu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/linu-shibu/)](https://www.linkedin.com/in/linu-shibu/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/linu-shibu)](https://github.com/linu-shibu)
+## 📌 Featured Projects
+
+### 🛍️ [E-Commerce Website](https://github.com/linu-shibu/e-commerce-website-react-js)
+
+A responsive e-commerce application built with React and Firebase, featuring authentication, dynamic cart management, and checkout workflows.
+
+**Tech:** `React` `Firebase`
+
+### 🦠 [COVID Data Analysis & Diagnosis](https://github.com/linu-shibu/Team_4max)
+
+An interactive data analysis and symptom-based risk prediction application built as part of a 24-hour hackathon, reaching the final round.
+
+**Tech:** `Python` `Machine Learning` `Streamlit`
 
 ---
 
-_“Eager to contribute to dynamic product environments and engineer systems that thrive at internet scale.”_
+## 🎓 Currently
+
+🎓 **Master of Computing in Artificial Intelligence**
+National University of Singapore
+
+Previously: **Software Engineer II at PayPal**, working on Kafka platform engineering, distributed systems, automation, and internal engineering platforms.
+
+---
+
+## 📬 Let's Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/linu-shibu/)
+* 🐙 [GitHub](https://github.com/linu-shibu)
+* 📧 [Email](mailto:linushibu.ls@gmail.com)
+
+---
+
+*Building scalable systems, exploring AI, and turning ideas into working software.*
